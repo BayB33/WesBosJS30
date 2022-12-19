@@ -11,4 +11,5 @@ Taking Web Bos 30 days of JavaScript Challenge
 4 - Array Cardio Day 1 <br>
       
 19/12: <br>
-5 - Flex Panel Gallery
+5 - Flex Panel Gallery <br>
+6 - Type Ahead
