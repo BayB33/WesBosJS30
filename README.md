@@ -12,4 +12,5 @@ Taking Web Bos 30 days of JavaScript Challenge
       
 19/12: <br>
 5 - Flex Panel Gallery <br>
-6 - Type Ahead
+6 - Type Ahead <br>
+7 - Array Cardio Day 2 <br>
