@@ -14,4 +14,6 @@ Taking Web Bos 30 days of JavaScript Challenge
 5 - Flex Panel Gallery <br>
 6 - Type Ahead <br>
 7 - Array Cardio Day 2 <br>
+
+22/12: <br>
 8 - Fun with HTML5 Canvas <br>
