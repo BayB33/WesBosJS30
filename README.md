@@ -18,3 +18,4 @@ Taking Web Bos 30 days of JavaScript Challenge
 22/12: <br>
 8 - Fun with HTML5 Canvas <br>
 9 - 14 Must Know Dev Tools Tricks <br>
+10 - Hold Shift to Check Multiple Checkboxes <br>
